@@ -16,3 +16,4 @@ _book
 .quarto
 /.quarto/
 HiCool/
+.DS_Store

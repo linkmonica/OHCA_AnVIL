@@ -1,17 +1,16 @@
-Package: OHCA
-Title: Orchestrating Hi-C analysis with Bioconductor
+Package: OHCA_AnVIL
+Title: Orchestrating Hi-C analysis with Bioconductor on AnVIL
 Version: 1.1.0
 Date: 2023-04-14
 Authors@R:
-    c(person(given = "Jacques",
-           family = "Serizay",
+    c(person(given = "Monica",
+           family = "Valecha",
            role = c("aut", "cre"),
-           email = "jacquesserizay@gmail.com",
-           comment = c(ORCID = "0000-0002-4295-0624")))
-Description: Orchestrating Hi-C analysis with Bioconductor
+           email = "linkmonica@gmail.com"))
+Description: Orchestrating Hi-C analysis with Bioconductor on AnVIL
 License: MIT + file LICENSE
-URL: https://github.com/js2264/OHCA
-BugReports: https://github.com/js2264/OHCA/issues
+URL: https://github.com/linkmonica/OHCA_AnVIL
+BugReports: https://github.com/linkmonica/OHCA_AnVIL/issues
 Depends:
     R (>= 4.3),
     HiCExperiment,
